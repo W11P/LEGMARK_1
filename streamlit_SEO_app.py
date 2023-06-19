@@ -1,7 +1,6 @@
 import re
 import requests
 from urllib.parse import urlparse, urljoin
-import BeautifulSoup
 from bs4 import BeautifulSoup
 #import colorama
 #from collections import Counter
