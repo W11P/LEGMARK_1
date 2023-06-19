@@ -12,7 +12,7 @@ import pandas as pd
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import time
-import WordCloud, STOPWORDS
+
 
 internal_urls = set()
 external_urls = set()
