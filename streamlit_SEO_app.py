@@ -2,7 +2,7 @@ import re
 import requests
 from urllib.parse import urlparse, urljoin
 import BeautifulSoup
-#from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 #import colorama
 #from collections import Counter
 #from string import punctuation
@@ -10,7 +10,7 @@ import streamlit as st
 import pandas as pd
 #import colorama
 #import tldextract
-#from wordcloud import WordCloud, STOPWORDS
+from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import time
 import WordCloud, STOPWORDS
